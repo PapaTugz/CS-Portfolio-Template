@@ -1,6 +1,30 @@
-# Title
+# Cybersecurity Project Portfolio Template
 
-This repository serves as a reusable template for cs projects.
+This repository serves as a reusable template for cybersecurity projects.
+
+## Table of Contents
+
+* [Overview](#overview)
+* [Scope](#scope)
+* [Objectives](#objectives)
+* [Environment](#environment)
+* [Methodology](#methodology)
+* [Assets Reviewed](#assets-reviewed)
+* [Findings](#findings)
+* [Risk Assessment](#risk-assessment)
+* [Control Assessment](#control-assessment)
+* [Compliance Assessment](#compliance-assessment)
+* [Recommendations](#recommendations)
+* [Lessons Learned](#lessons-learned)
+* [Skills Demonstrated](#skills-demonstrated)
+
+## Repository Structure
+
+* **docs/** — Supporting documentation, project notes, and reference materials.
+* **evidence/** — Evidence collected during assessments, labs, or investigations.
+* **images/** — Screenshots, diagrams, and other visual documentation.
+* **queries/** — SIEM queries, search queries, and other investigation queries.
+* **scripts/** — Scripts and automation used during projects or assessments.
 
 ## Overview
 
@@ -8,7 +32,7 @@ Briefly describe the purpose of the project, the problem being addressed, and gi
 
 ## Scope
 
-Define the boundaries of the project by describing what systems, assets, or activities, were included, and note any exclusions.
+Define the boundaries of the project by describing what systems, assets, or activities were included, and note any exclusions.
 
 ## Objectives
 
@@ -24,7 +48,7 @@ Describe how the project was conducted, such as reviewing controls against a che
 
 ## Assets Reviewed
 
-Include a high-level list like empployee devices, internal network, business systems, customer data, and physical inventory.
+Include a high-level list like employee devices, internal network, business systems, customer data, and physical inventory.
 
 ## Findings
 
@@ -40,15 +64,15 @@ One sentence noting which controls are present or absent, such as no encryption,
 
 ## Compliance Assessment
 
-One sentence stating whether relevant standards like PCI, DSS, or GDPR are met or not. If not applicable, say so briefly. If partial, note the gaps in plain language. 
+One sentence stating whether relevant standards like PCI DSS, or GDPR are met or not. If not applicable, say so briefly. If partial, note the gaps in plain language. 
 
 ## Recommendations
 
-One sentence suggesting prioritized improvements, like least privilage, encryption, backups, IDS, and stronger password policies.
+One sentence suggesting prioritized improvements, like least privilege, encryption, backups, or IDS, and stronger password policies.
 
 ## Lessons Learned
 
-Couple sentences about what the project taught, such as the importance of foundational controls, and clear documentation.
+A couple sentences about what the project taught, such as the importance of foundational controls, and clear documentation.
 
 ## Skills Demonstrated
 
